@@ -7,4 +7,4 @@ A project to predict medical no-shows. The data comes from from medical records 
 - All results (predictions, saved models, etc) are in /results
 - The pdf version of the final report is in /report
 - All of the source codes (ipython notebooks) are in /src.
-- The environment.yml contains environment information.
+- The environment.yml contains environment information (python version and package versions).
